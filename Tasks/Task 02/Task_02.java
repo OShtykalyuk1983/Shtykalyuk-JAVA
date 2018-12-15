@@ -1,4 +1,4 @@
-class Task_03 {
+class Task_02 {
 	public static void main(String[] args) {
 	int number = 233;
 

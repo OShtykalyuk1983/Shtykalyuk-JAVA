@@ -1,4 +1,4 @@
-class Task_02 {
+class Task_01 {
 	public static void main(String[] args) {
 		int summ = 40850;
 		int cas1 = 1000;
